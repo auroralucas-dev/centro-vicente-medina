@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "titulo": "Control de plagas",
+    "categoria": "Sanidad ambiental",
+    "nivel": "Intermedio",
+    "duracion": "370 horas",
+    "descripcion": "Curso orientado a la identificación de plagas urbanas."
+  }
+]
+

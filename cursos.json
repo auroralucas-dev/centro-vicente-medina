@@ -1,0 +1,26 @@
+[
+  {
+    "id": "control-plagas",
+    "titulo": "Control de plagas",
+    "categoria": "Sanidad ambiental",
+    "nivel": "Intermedio",
+    "imagen": "img/logo-control-plagas.png",
+    "url": "curso-control-plagas.html"
+  },
+  {
+    "id": "organismos-nocivos",
+    "titulo": "Organismos nocivos",
+    "categoria": "Sanidad ambiental",
+    "nivel": "Avanzado",
+    "imagen": "img/logo-organismos-nocivos.png",
+    "url": "curso-organismos-nocivos.html"
+  },
+  {
+    "id": "legionella",
+    "titulo": "Legionella",
+    "categoria": "Sanidad ambiental",
+    "nivel": "Intermedio",
+    "imagen": "img/logo-legionella.png",
+    "url": "curso-legionella.html"
+  }
+]

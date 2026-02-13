@@ -6,7 +6,7 @@
     "nivel": "Intermedio",
     "duracion": "370 horas",
     "descripcion": "Curso orientado a la identificación de plagas urbanas.",
-    "imagen": "./img/logo-control-plagas.png"
+    "imagen": "img/logo-control-plagas.png",
     "enlace": "curso-control-plagas.html"
   },
   {
@@ -16,7 +16,7 @@
     "nivel": "Avanzado",
     "duracion": "180 horas",
     "descripcion": "Detección y control de organismos nocivos.",
-    "imagen": "./img/logo-organismos-nocivos.png"
+    "imagen": "img/logo-organismos-nocivos.png",
     "enlace": "curso-organismos-nocivos.html"
   },
   {
@@ -26,9 +26,10 @@
     "nivel": "Avanzado",
     "duracion": "200 horas",
     "descripcion": "Prevención y control de Legionella.",
-    "imagen": "./img/logo-legionella.png"
+    "imagen": "img/logo-legionella.png",
     "enlace": "curso-legionella.html"
   }
 ]
+
 
 
